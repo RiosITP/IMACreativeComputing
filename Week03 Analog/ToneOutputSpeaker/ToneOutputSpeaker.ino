@@ -1,5 +1,5 @@
-int speaker = 8;
-int pitch;
+int speaker = 8; //speaker pin
+int pitch;      // output tone frequency
 int fsrReading;
 
 void setup() {
